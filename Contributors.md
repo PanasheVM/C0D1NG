@@ -47,6 +47,7 @@
 # P
 - [Priyadarshini Kumari](https://github.com/pawki07)
 - [Priyam Harsh](https://github.com/priyamharsh14)
+- [Panashe Manunure](https://github.com/PanasheVM)
 
 # R
 - [Riyan Pramana](https://github.com/riyanp)
